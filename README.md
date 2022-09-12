@@ -17,6 +17,6 @@ Para rodar esse projeto, após clonar localmente o mesmo, você vai precisar seg
 
 ## ⬇ Download
 
-Android: [link](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+Android: [link](https://drive.google.com/file/d/1O2r3RRN3l3TnERW4p9hUetC4oUFTeRXs/view?usp=sharing)
 
 
