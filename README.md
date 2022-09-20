@@ -2,7 +2,6 @@
 # #️⃣LISTA DE CONTATOS
 
 Aplicativo de lista de contatos com a possibilidade de definir lembretes
-criado como parte do processo seletivo para desenvolvedor Flutter na Nucleus.eti
 
 
 ## ▶ Executar projeto
