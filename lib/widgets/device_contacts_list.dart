@@ -22,16 +22,15 @@ class DeviceContactsListState extends State<DeviceContactsList> {
     var contactsPermission = await getAccessContactPermission();
     if (contactsPermission == PermissionStatus.granted) {
       final contactsFromDevice = await FastContacts.allContacts;
-      contactsFromDevice.forEach((element) {
+      for (var element in contactsFromDevice) {
         deviceContacts
             .add({"name": element.displayName, "phones": element.phones});
-      });
+      }
     }
   }
 
   modalStateHandler() async {
     await checkDeviceContactsList();
-    print(deviceContacts);
     setState(() {});
   }
 

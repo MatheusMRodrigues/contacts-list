@@ -53,6 +53,7 @@ dependencies:
   localstore: ^1.2.3
   url_launcher: ^6.1.5
   easy_mask: ^2.0.1
+  timezone: ^0.8.0
 
 
 dev_dependencies:
